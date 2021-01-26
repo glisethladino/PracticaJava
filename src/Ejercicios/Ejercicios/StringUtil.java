@@ -36,4 +36,4 @@ public class StringUtil {
             return sb.substring(inputString.length()) + inputString;
         }
     }
-}
+
